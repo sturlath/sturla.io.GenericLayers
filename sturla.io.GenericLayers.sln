@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sturla.io.GenericLayers", "src\sturla.io.GenericLayers\sturla.io.GenericLayers.csproj", "{83D70511-8FF9-452E-B8EE-5B23938240F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sturla.io.GenericLayers.Unittests", "tests\sturla.io.GenericLayers.Unittests\sturla.io.GenericLayers.Unittests.csproj", "{53B9E4FF-9430-4331-91B7-E85351C64EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D70511-8FF9-452E-B8EE-5B23938240F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D70511-8FF9-452E-B8EE-5B23938240F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D70511-8FF9-452E-B8EE-5B23938240F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D70511-8FF9-452E-B8EE-5B23938240F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B9E4FF-9430-4331-91B7-E85351C64EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B9E4FF-9430-4331-91B7-E85351C64EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B9E4FF-9430-4331-91B7-E85351C64EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B9E4FF-9430-4331-91B7-E85351C64EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28091D8-5EA6-4AE9-98F6-A2E0BBB22A5B}
+	EndGlobalSection
+EndGlobal
